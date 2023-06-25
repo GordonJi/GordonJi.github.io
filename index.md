@@ -9,7 +9,8 @@ permalink: /
 # 정시퇴근을 위한 기록
 {: .fs-9 }
 
-SE개발자로 살다가 뒷방 늙은이가 되어버릴 것 같은 위기감에 시작하는 저장소.
+뒤늦게 시작하는 SE개발자의 기록 저장소.
+ やっと始まるSE開発者のメモリ保存先
 {: .fs-6 .fw-300 }
 
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -26,14 +27,14 @@ Jekyll builds this Just the Docs theme docs website using the theme itself. Thes
 
 Browse the docs to learn more about how to use this theme. -->
 
-## 참가했던 프로젝트
+## 참가했던 프로젝트（参加プロジェクト）
 
-- 생명보험 보험플랜 페이지, `.NET` `Oracle` `ASP` as 코더, 테스터 
-- 세율 복수화 대응, `.NET` `Oracle`  as 코더, 테스터
-- 퍼포먼스 체크용 배치, `Java` `Oracle` `WebPerformer` as 상세설계, 코더, 테스터 
-- 물류 시스템 운영, `Java` `Oracle` as 오퍼레터
-- 웹사이트 마이그레이션 , `Spring` `Java` `PostgreSql` `Weblogic` `Tomcat`  as 서브리더, 코더, 테스터
-- 운송 시스템 운영, `Java` `PostgreSql` `AWS` `Tomcat` as
+- 생명보험 보험플랜 페이지, `.NET` `Oracle` `ASP` as Coder, Tester　（生命保険プラン比較ページ） 
+- 세율 복수화 대응, `.NET` `Oracle`  as Coder, Tester（複数税率対応）
+- 퍼포먼스 체크용 배치, `Java` `Oracle` `WebPerformer` as Detailed design, Coder, Tester （パフォーマンスチェックバッチ開発）
+- 물류 시스템 운영, `Java` `Oracle` as Deployment manager（物流システム運用）
+- 웹사이트 마이그레이션 , `Spring` `Java` `PostgreSql` `Weblogic` `Tomcat`  as Subleader, Coder, Tester（Webサイトマイグレション）
+- 운송 시스템 운영, `Java` `PostgreSql` `AWS` `Tomcat` as Coder, Tester （運送システム維持保守）
 
 <!-- The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"!
 
@@ -54,4 +55,5 @@ Other than that, you're free to customize sites that you create with the templat
 {: .note }
 See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site. -->
 
-### Certificate
+<!-- ### Certificate -->
+

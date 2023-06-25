@@ -2,6 +2,7 @@
 layout: default
 title: Navigation Structure
 nav_order: 5
+nav_exclude: true
 ---
 
 # Navigation Structure
@@ -38,6 +39,7 @@ To specify a page order, you can use the `nav_order` parameter in your pages' YA
 layout: default
 title: Customization
 nav_order: 4
+nav_exclude: true
 ---
 
 ```
@@ -138,6 +140,7 @@ layout: default
 title: Buttons
 parent: UI Components
 nav_order: 2
+nav_exclude: true
 ---
 
 ```
@@ -178,6 +181,7 @@ title: UI Components
 nav_order: 2
 has_children: true
 has_toc: false
+nav_exclude: true
 ---
 
 ```
@@ -201,6 +205,7 @@ title: Buttons
 parent: UI Components
 nav_order: 2
 has_children: true
+nav_exclude: true
 ---
 
 ```
