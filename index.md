@@ -10,7 +10,8 @@ permalink: /
 {: .fs-9 }
 
 뒤늦게 시작하는 SE개발자의 기록 저장소.
- やっと始まるSE開発者のメモリ保存先
+{: .fs-6 .fw-300 }
+やっと始まるSE開発者のメモリ保存先
 {: .fs-6 .fw-300 }
 
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
