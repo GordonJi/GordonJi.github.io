@@ -1,33 +1,41 @@
 ---
 layout: default
-title: Customization
-nav_order: 6
-nav_exclude: true
+title: Review
+nav_order: 2
+has_children: true
 ---
 
-# Customization
+# Review
 {: .no_toc }
 
-## Table of contents
+## 작업일기
 {: .no_toc .text-delta }
 
-1. TOC
+1. 잔업 계산 툴 작성 
+
+2. 어플 프리징 원인 개선 
+
+3. DB메이저 버전 업데이트
+
+4. 시스템 입력 장애 확인
+
+5. 캐쉬서버 버전 업데이트
+
+6. 스마트 폰 신기종 동작확인
 {:toc}
 
 ---
 
-## Color schemes
+## 잔업 계산 툴 작성
 
-Just the Docs supports two color schemes: light (default), and dark.
 
-To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file:
 
 #### Example
 {: .no_toc }
 
 ```yaml
 # Color scheme supports "light" (default) and "dark"
-color_scheme: light
+color_scheme: dark
 ```
 
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
