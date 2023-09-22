@@ -5,12 +5,12 @@ nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
-
 # 정시퇴근을 위한 기록
 {: .fs-9 }
 
 뒤늦게 시작하는 SE개발자의 기록 저장소.
 {: .fs-6 .fw-300 }
+
 やっと始まるSE開発者のメモリ保存先
 {: .fs-6 .fw-300 }
 

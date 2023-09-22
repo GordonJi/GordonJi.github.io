@@ -17,7 +17,7 @@ title: Gordon Ji
 description: A developer without thinking
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gordonji.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: gordonji.github.io/gordonji # for github-metadata
+repository: https://github.com/GordonJi/GordonJi.github.io # for github-metadata
 
 permalink: pretty
 
@@ -114,7 +114,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 # External navigation links
 nav_external_links:
   - title: Gordon Ji on GitHub
-    url: https://gordonji.github.io
+    url: https://github.com/GordonJi/GordonJi.github.io
 
 # Footer content
 # appears at the bottom of every page's main content
