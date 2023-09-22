@@ -5,10 +5,10 @@ nav_order: 2
 has_children: true
 ---
 
-# Challenge
+# S.I. 일기
 {: .no_toc }
 
-## 안드로이드
+## 안드로이드 마이그레이션
 {: .no_toc .text-delta }
 
 1. 퀵 설정/풀 다운 표지 방지
